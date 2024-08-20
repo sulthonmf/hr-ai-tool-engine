@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/back-end/node_modules/
+
+/package-lock.json
+/back-end/package-lock.json
+
+/back-end/.venv/
+/back-end/python/.venv/
